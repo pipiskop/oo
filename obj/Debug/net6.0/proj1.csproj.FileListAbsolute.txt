@@ -1,0 +1,15 @@
+/Users/pipiskop/Projects/proj1/proj1/obj/Debug/net6.0/proj1.csproj.AssemblyReference.cache
+/Users/pipiskop/Projects/proj1/proj1/obj/Debug/net6.0/proj1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pipiskop/Projects/proj1/proj1/obj/Debug/net6.0/proj1.AssemblyInfoInputs.cache
+/Users/pipiskop/Projects/proj1/proj1/obj/Debug/net6.0/proj1.AssemblyInfo.cs
+/Users/pipiskop/Projects/proj1/proj1/obj/Debug/net6.0/proj1.csproj.CoreCompileInputs.cache
+/Users/pipiskop/Projects/proj1/proj1/bin/Debug/net6.0/proj1
+/Users/pipiskop/Projects/proj1/proj1/bin/Debug/net6.0/proj1.deps.json
+/Users/pipiskop/Projects/proj1/proj1/bin/Debug/net6.0/proj1.runtimeconfig.json
+/Users/pipiskop/Projects/proj1/proj1/bin/Debug/net6.0/proj1.dll
+/Users/pipiskop/Projects/proj1/proj1/bin/Debug/net6.0/proj1.pdb
+/Users/pipiskop/Projects/proj1/proj1/obj/Debug/net6.0/proj1.dll
+/Users/pipiskop/Projects/proj1/proj1/obj/Debug/net6.0/refint/proj1.dll
+/Users/pipiskop/Projects/proj1/proj1/obj/Debug/net6.0/proj1.pdb
+/Users/pipiskop/Projects/proj1/proj1/obj/Debug/net6.0/proj1.genruntimeconfig.cache
+/Users/pipiskop/Projects/proj1/proj1/obj/Debug/net6.0/ref/proj1.dll
