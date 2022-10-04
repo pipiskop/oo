@@ -10,7 +10,6 @@ Console.WriteLine("6. Найти квадратный корень из числ
 Console.WriteLine("7. Найти 1 процент от числа");
 Console.WriteLine("8. Найти факториал из числа");
 Console.WriteLine("9. Выйти");
-
 Console.Write("Введите первое число: ");
 double NumOdin = Convert.ToDouble(Console.ReadLine());
 Console.Write("введите второе число: ");
@@ -50,7 +49,6 @@ while (Num <= 8)
             Console.WriteLine(NumOdin * 0.01);
             break;
         case 8:
-
             int f = 1;
             int i;
             for (i = 2; i <= NumDva; i++)
